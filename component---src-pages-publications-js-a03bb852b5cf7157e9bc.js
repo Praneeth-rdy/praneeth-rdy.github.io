@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{"4IYq":function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),r=t.n(n),c=t("Bl7J"),i=t("vrFN");a.default=function(){return r.a.createElement(c.a,{navHeading:"praneeth-rdy",path:"/publications"},r.a.createElement(i.a,{title:"Blog",keywords:["blog","gatsby","javascript","react"]}),r.a.createElement("h3",null,"Publications Page"))}}}]);
+//# sourceMappingURL=component---src-pages-publications-js-a03bb852b5cf7157e9bc.js.map
