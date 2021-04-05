@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/publications.js"],"names":["Publications"],"mappings":"8FAAA,gCAMeA,UAJf,WACE,OAAO","file":"component---src-pages-publications-js-24a753925045c023539f.js","sourcesContent":["import React from \"react\"\n\nfunction Publications() {\n  return <div></div>\n}\n\nexport default Publications\n"],"sourceRoot":""}
