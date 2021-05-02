@@ -1,444 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Praneeth Reddy]]></title><description><![CDATA[A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery]]></description><link>https://praneeth-rdy.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 08 Apr 2021 15:26:00 GMT</lastBuildDate><item><title><![CDATA[Darkness]]></title><description><![CDATA[A wallpaper series using shapes and light by Jean-Marc Denis I used a poly reduction on the mesh as a proxy to be able to create my studio…]]></description><link>https://praneeth-rdy.github.io/darkness/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/darkness/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;A wallpaper series using shapes and light by &lt;a href=&quot;http://jmd.im/black&quot;&gt;Jean-Marc Denis&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.&lt;/p&gt;
-&lt;p&gt;This is the final render.&lt;/p&gt;
-&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/cbe2c/BLACK_II_desktop-1.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAeFcgg//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAEFAl//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAWEAEBAQAAAAAAAAAAAAAAAAABEAD/2gAIAQEAAT8hM1n/2gAMAwEAAgADAAAAENDP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGRABAAMBAQAAAAAAAAAAAAAAAQARITFR/9oACAEBAAE/ECvCEMDY3fSKjQ5E2bLfZ//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/51a8e/BLACK_II_desktop-1.webp 340w,
-/static/9d5a4783df570e5baa6b7bb091607efd/713b7/BLACK_II_desktop-1.webp 680w,
-/static/9d5a4783df570e5baa6b7bb091607efd/54376/BLACK_II_desktop-1.webp 1360w,
-/static/9d5a4783df570e5baa6b7bb091607efd/521a5/BLACK_II_desktop-1.webp 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/2e524/BLACK_II_desktop-1.jpg 340w,
-/static/9d5a4783df570e5baa6b7bb091607efd/d330d/BLACK_II_desktop-1.jpg 680w,
-/static/9d5a4783df570e5baa6b7bb091607efd/6c26c/BLACK_II_desktop-1.jpg 1360w,
-/static/9d5a4783df570e5baa6b7bb091607efd/cbe2c/BLACK_II_desktop-1.jpg 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/6c26c/BLACK_II_desktop-1.jpg&quot;
-          alt=&quot;Darkness&quot;
-          title=&quot;&quot;
-          src=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/6c26c/BLACK_II_desktop-1.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/cbe2c/BLACK_IX_desktop-1.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABwIAH/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQABBQJf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQABPyFf/9oADAMBAAIAAwAAABBjD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAAIDAQEAAAAAAAAAAAAAAAABETFRECH/2gAIAQEAAT8QhKzzGQtHff/Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/51a8e/BLACK_IX_desktop-1.webp 340w,
-/static/4e0e77d8419b9f430960a99f16b48ace/713b7/BLACK_IX_desktop-1.webp 680w,
-/static/4e0e77d8419b9f430960a99f16b48ace/54376/BLACK_IX_desktop-1.webp 1360w,
-/static/4e0e77d8419b9f430960a99f16b48ace/521a5/BLACK_IX_desktop-1.webp 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/2e524/BLACK_IX_desktop-1.jpg 340w,
-/static/4e0e77d8419b9f430960a99f16b48ace/d330d/BLACK_IX_desktop-1.jpg 680w,
-/static/4e0e77d8419b9f430960a99f16b48ace/6c26c/BLACK_IX_desktop-1.jpg 1360w,
-/static/4e0e77d8419b9f430960a99f16b48ace/cbe2c/BLACK_IX_desktop-1.jpg 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/6c26c/BLACK_IX_desktop-1.jpg&quot;
-          alt=&quot;Darkness&quot;
-          title=&quot;&quot;
-          src=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/6c26c/BLACK_IX_desktop-1.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/00ff909860392cb993579590db441a52/cbe2c/BLACK_I_desktop-1.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgABBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAeGig2x//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQABBQJf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAFxAAAwEAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAQABPyFTBX//2gAMAwEAAgADAAAAEKPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGBAAAwEBAAAAAAAAAAAAAAAAAAERITH/2gAIAQEAAT8QSoazCjoTvRn/2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/00ff909860392cb993579590db441a52/51a8e/BLACK_I_desktop-1.webp 340w,
-/static/00ff909860392cb993579590db441a52/713b7/BLACK_I_desktop-1.webp 680w,
-/static/00ff909860392cb993579590db441a52/54376/BLACK_I_desktop-1.webp 1360w,
-/static/00ff909860392cb993579590db441a52/521a5/BLACK_I_desktop-1.webp 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/00ff909860392cb993579590db441a52/2e524/BLACK_I_desktop-1.jpg 340w,
-/static/00ff909860392cb993579590db441a52/d330d/BLACK_I_desktop-1.jpg 680w,
-/static/00ff909860392cb993579590db441a52/6c26c/BLACK_I_desktop-1.jpg 1360w,
-/static/00ff909860392cb993579590db441a52/cbe2c/BLACK_I_desktop-1.jpg 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/00ff909860392cb993579590db441a52/6c26c/BLACK_I_desktop-1.jpg&quot;
-          alt=&quot;Darkness&quot;
-          title=&quot;&quot;
-          src=&quot;/static/00ff909860392cb993579590db441a52/6c26c/BLACK_I_desktop-1.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Android Development]]></title><link>https://praneeth-rdy.github.io/android-dev/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/android-dev/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Android Development]]></title><link>https://praneeth-rdy.github.io/temp-2/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/temp-2/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Android Development]]></title><link>https://praneeth-rdy.github.io/temp/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/temp/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Web Development]]></title><link>https://praneeth-rdy.github.io/web-dev/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/web-dev/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Android Development]]></title><link>https://praneeth-rdy.github.io/temp/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/temp/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Android Development]]></title><link>https://praneeth-rdy.github.io/temp-2/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/temp-2/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Android Development]]></title><link>https://praneeth-rdy.github.io/android-dev/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/android-dev/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Web Development]]></title><link>https://praneeth-rdy.github.io/web-dev/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/web-dev/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Android Development]]></title><link>https://praneeth-rdy.github.io/android-dev/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/android-dev/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Web Development]]></title><link>https://praneeth-rdy.github.io/web-dev/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/web-dev/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Don't stop]]></title><description><![CDATA[Picasso had his pink period and his blue period. I am in my blonde period right now. When I first started wearing pink, it wasn’t nothing I…]]></description><link>https://praneeth-rdy.github.io/dont-stop/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/dont-stop/</guid><pubDate>Tue, 07 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Picasso had his pink period and his blue period. I am in my blonde period right now.&lt;/h3&gt;
-&lt;p&gt;When I first started wearing pink, it wasn’t nothing I planned on doing or strategized. But people showed me so much love for the pink mink I wore, I had to go out to Pantone and create my own color, which is called Killa Pink.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/cbe2c/ian-dooley-298771-unsplash-1.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIDAQQF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAB9RpMrc0Dis1Sw0ef/8QAGxAAAgEFAAAAAAAAAAAAAAAAAQIQABESICH/2gAIAQEAAQUCnKrww4qnX//EABYRAQEBAAAAAAAAAAAAAAAAAAEQAv/aAAgBAwEBPwFjpn//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAVEAEBAAAAAAAAAAAAAAAAAAAgMf/aAAgBAQAGPwJ0/wD/xAAdEAACAQQDAAAAAAAAAAAAAAABERAAQWFxMVHw/9oACAEBAAE/IZNgTzQ9EP4vrdBFlMARcbE//9oADAMBAAIAAwAAABC/NLH/xAAXEQADAQAAAAAAAAAAAAAAAAABEBEx/9oACAEDAQE/ECmqKL//xAAVEQEBAAAAAAAAAAAAAAAAAAAQQf/aAAgBAgEBPxAp/8QAHhABAAIBBAMAAAAAAAAAAAAAAQARIRAxcbFBUWH/2gAIAQEAAT8QISpQmQcCq4Pk7aHkSXlbBUCLA7QEPfO8CJXx7Ib6f//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/51a8e/ian-dooley-298771-unsplash-1.webp 340w,
-/static/f9f135b7f31d141d7b7ee264de4e1b73/713b7/ian-dooley-298771-unsplash-1.webp 680w,
-/static/f9f135b7f31d141d7b7ee264de4e1b73/54376/ian-dooley-298771-unsplash-1.webp 1360w,
-/static/f9f135b7f31d141d7b7ee264de4e1b73/521a5/ian-dooley-298771-unsplash-1.webp 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/2e524/ian-dooley-298771-unsplash-1.jpg 340w,
-/static/f9f135b7f31d141d7b7ee264de4e1b73/d330d/ian-dooley-298771-unsplash-1.jpg 680w,
-/static/f9f135b7f31d141d7b7ee264de4e1b73/6c26c/ian-dooley-298771-unsplash-1.jpg 1360w,
-/static/f9f135b7f31d141d7b7ee264de4e1b73/cbe2c/ian-dooley-298771-unsplash-1.jpg 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/6c26c/ian-dooley-298771-unsplash-1.jpg&quot;
-          alt=&quot;Don&apos;t stop&quot;
-          title=&quot;&quot;
-          src=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/6c26c/ian-dooley-298771-unsplash-1.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/eb49d6b0e91431744d4293eecda221ce/cbe2c/ian-dooley-298780-unsplash-1.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgX/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAHruTzpUBMK50rQhP8A/8QAGRAAAgMBAAAAAAAAAAAAAAAAAREAAhAg/9oACAEBAAEFAtcoWO//xAAWEQEBAQAAAAAAAAAAAAAAAAAQARH/2gAIAQMBAT8Bwp//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAUEAEAAAAAAAAAAAAAAAAAAAAw/9oACAEBAAY/Ak//xAAaEAACAwEBAAAAAAAAAAAAAAABEQAQQTHh/9oACAEBAAE/IY64hXEe0mVmwUL/AP/aAAwDAQACAAMAAAAQ4ycP/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARIf/aAAgBAwEBPxAxqKr/xAAXEQEAAwAAAAAAAAAAAAAAAAAQARFR/9oACAECAQE/ELI0/8QAHRABAAICAgMAAAAAAAAAAAAAAQAREDEhQVFx8f/aAAgBAQABPxAgLDzht6c7gOoC0vTBXGr8wUBggUFBohj/2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/eb49d6b0e91431744d4293eecda221ce/51a8e/ian-dooley-298780-unsplash-1.webp 340w,
-/static/eb49d6b0e91431744d4293eecda221ce/713b7/ian-dooley-298780-unsplash-1.webp 680w,
-/static/eb49d6b0e91431744d4293eecda221ce/54376/ian-dooley-298780-unsplash-1.webp 1360w,
-/static/eb49d6b0e91431744d4293eecda221ce/521a5/ian-dooley-298780-unsplash-1.webp 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/eb49d6b0e91431744d4293eecda221ce/2e524/ian-dooley-298780-unsplash-1.jpg 340w,
-/static/eb49d6b0e91431744d4293eecda221ce/d330d/ian-dooley-298780-unsplash-1.jpg 680w,
-/static/eb49d6b0e91431744d4293eecda221ce/6c26c/ian-dooley-298780-unsplash-1.jpg 1360w,
-/static/eb49d6b0e91431744d4293eecda221ce/cbe2c/ian-dooley-298780-unsplash-1.jpg 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/eb49d6b0e91431744d4293eecda221ce/6c26c/ian-dooley-298780-unsplash-1.jpg&quot;
-          alt=&quot;Don&apos;t stop&quot;
-          title=&quot;&quot;
-          src=&quot;/static/eb49d6b0e91431744d4293eecda221ce/6c26c/ian-dooley-298780-unsplash-1.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[All spikes]]></title><link>https://praneeth-rdy.github.io/all-spikes/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/all-spikes/</guid><pubDate>Sat, 04 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/cbe2c/charles-deluvio-695757-unsplash.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 71.47058823529412%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAdeqag1dAp//xAAZEAACAwEAAAAAAAAAAAAAAAABAgADERD/2gAIAQEAAQUCitrQjRRQauf/xAAWEQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8BUH//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAEAAgMBAAAAAAAAAAAAAAABABACESFR/9oACAEBAAY/Apl4Ukdp2v/EABkQAQEAAwEAAAAAAAAAAAAAAAERABBRYf/aAAgBAQABPyHIajAJr2wmMtDxr//aAAwDAQACAAMAAAAQOx//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QAp2f/8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQIBAT8Qp//EABsQAQEAAwADAAAAAAAAAAAAAAERABAhQWGh/9oACAEBAAE/EFAVQDy457igLZV+mgQkbr2YTZAJeBr/2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/51a8e/charles-deluvio-695757-unsplash.webp 340w,
-/static/c7484ec51df371d20ff0b83d92feeb8a/713b7/charles-deluvio-695757-unsplash.webp 680w,
-/static/c7484ec51df371d20ff0b83d92feeb8a/54376/charles-deluvio-695757-unsplash.webp 1360w,
-/static/c7484ec51df371d20ff0b83d92feeb8a/521a5/charles-deluvio-695757-unsplash.webp 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/2e524/charles-deluvio-695757-unsplash.jpg 340w,
-/static/c7484ec51df371d20ff0b83d92feeb8a/d330d/charles-deluvio-695757-unsplash.jpg 680w,
-/static/c7484ec51df371d20ff0b83d92feeb8a/6c26c/charles-deluvio-695757-unsplash.jpg 1360w,
-/static/c7484ec51df371d20ff0b83d92feeb8a/cbe2c/charles-deluvio-695757-unsplash.jpg 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/6c26c/charles-deluvio-695757-unsplash.jpg&quot;
-          alt=&quot;Cactus&quot;
-          title=&quot;&quot;
-          src=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/6c26c/charles-deluvio-695757-unsplash.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/cbe2c/charles-deluvio-695736-unsplash.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwD/2gAMAwEAAhADEAAAAdsRjjXeljmsGwJ//8QAHBAAAgICAwAAAAAAAAAAAAAAAQIDEAASBCEz/9oACAEBAAEFAidVU7DJfPjk0ewsapX/xAAWEQADAAAAAAAAAAAAAAAAAAABESD/2gAIAQMBAT8BRj//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAaEAACAgMAAAAAAAAAAAAAAAAAEAEREiFB/9oACAEBAAY/ArLhSY8el//EABoQAQADAQEBAAAAAAAAAAAAAAEAETEQIaH/2gAIAQEAAT8hJFgXBHJ4kcrJbDn3gEHGIWfvP//aAAwDAQACAAMAAAAQUBe9/8QAGBEBAAMBAAAAAAAAAAAAAAAAARARITH/2gAIAQMBAT8QG05AtVH/xAAYEQACAwAAAAAAAAAAAAAAAAABESAhQf/aAAgBAgEBPxBgVsP/xAAaEAEBAQADAQAAAAAAAAAAAAABEQAQMUEh/9oACAEBAAE/ECGWpMvlGnBKp7Cee4UZBS96b6phEzBApGpyu//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/51a8e/charles-deluvio-695736-unsplash.webp 340w,
-/static/638a03ee6e2ca276a2dc75f36331d28a/713b7/charles-deluvio-695736-unsplash.webp 680w,
-/static/638a03ee6e2ca276a2dc75f36331d28a/54376/charles-deluvio-695736-unsplash.webp 1360w,
-/static/638a03ee6e2ca276a2dc75f36331d28a/521a5/charles-deluvio-695736-unsplash.webp 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/2e524/charles-deluvio-695736-unsplash.jpg 340w,
-/static/638a03ee6e2ca276a2dc75f36331d28a/d330d/charles-deluvio-695736-unsplash.jpg 680w,
-/static/638a03ee6e2ca276a2dc75f36331d28a/6c26c/charles-deluvio-695736-unsplash.jpg 1360w,
-/static/638a03ee6e2ca276a2dc75f36331d28a/cbe2c/charles-deluvio-695736-unsplash.jpg 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/6c26c/charles-deluvio-695736-unsplash.jpg&quot;
-          alt=&quot;Cactus&quot;
-          title=&quot;&quot;
-          src=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/6c26c/charles-deluvio-695736-unsplash.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/216e61171daaf84611afdcd561d726fa/cbe2c/charles-deluvio-695758-unsplash.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 140%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAUCBAH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAP/2gAMAwEAAhADEAAAAa/iWXVFcvBYyNNh5//EABsQAAEFAQEAAAAAAAAAAAAAAAEAAgMEEBIj/9oACAEBAAEFAtJAULurKsDzhHUuBrRn/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARAv/aAAgBAwEBPwFDcEX/xAAXEQADAQAAAAAAAAAAAAAAAAABEBEC/9oACAECAQE/AUc01f/EABoQAAIDAQEAAAAAAAAAAAAAAAEQABEhAlH/2gAIAQEABj8Cemp2bV+QPAF//8QAHBAAAgMBAAMAAAAAAAAAAAAAAREAECExUWFx/9oACAEBAAE/IYw09oCwB7g0lat7TPMTiCeDaIBCIYnFXwV//9oADAMBAAIAAwAAABBD30H/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QJisp/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8QIo//xAAfEAEAAQQBBQAAAAAAAAAAAAABEQAQIUExUWGBofD/2gAIAQEAAT8QoRAQJSc274QUU55cJDYCOtjbRB9NHCHJ8fFnQk5Ew0yrLuC3/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/216e61171daaf84611afdcd561d726fa/51a8e/charles-deluvio-695758-unsplash.webp 340w,
-/static/216e61171daaf84611afdcd561d726fa/713b7/charles-deluvio-695758-unsplash.webp 680w,
-/static/216e61171daaf84611afdcd561d726fa/54376/charles-deluvio-695758-unsplash.webp 1360w,
-/static/216e61171daaf84611afdcd561d726fa/521a5/charles-deluvio-695758-unsplash.webp 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/216e61171daaf84611afdcd561d726fa/2e524/charles-deluvio-695758-unsplash.jpg 340w,
-/static/216e61171daaf84611afdcd561d726fa/d330d/charles-deluvio-695758-unsplash.jpg 680w,
-/static/216e61171daaf84611afdcd561d726fa/6c26c/charles-deluvio-695758-unsplash.jpg 1360w,
-/static/216e61171daaf84611afdcd561d726fa/cbe2c/charles-deluvio-695758-unsplash.jpg 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/216e61171daaf84611afdcd561d726fa/6c26c/charles-deluvio-695758-unsplash.jpg&quot;
-          alt=&quot;Cactus&quot;
-          title=&quot;&quot;
-          src=&quot;/static/216e61171daaf84611afdcd561d726fa/6c26c/charles-deluvio-695758-unsplash.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/13fcadf01630d17cd11157919feaa547/cbe2c/charles-deluvio-695733-unsplash.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 140%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAEEAv/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQF/9oADAMBAAIQAxAAAAHeZ+bp0AGc9yi0Tb//xAAZEAACAwEAAAAAAAAAAAAAAAAAAQMRICH/2gAIAQEAAQUCxH1jKz//xAAWEQEBAQAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8BJp//xAAXEQEBAQEAAAAAAAAAAAAAAAABEBEC/9oACAECAQE/AQh3hk//xAAXEAADAQAAAAAAAAAAAAAAAAACIDBx/9oACAEBAAY/AkPYf//EABsQAQACAgMAAAAAAAAAAAAAAAEQEQAgITFB/9oACAEBAAE/IdHD9MAPBU0Hkf/aAAwDAQACAAMAAAAQG+VO/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EFxCOwz/xAAXEQADAQAAAAAAAAAAAAAAAAABEBFR/9oACAECAQE/EKAnFZ2v/8QAGhABAQEBAAMAAAAAAAAAAAAAAREQACExkf/aAAgBAQABPxDqKgnj3tUtjPhgvLMKawlxBIlOGUA5/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/13fcadf01630d17cd11157919feaa547/51a8e/charles-deluvio-695733-unsplash.webp 340w,
-/static/13fcadf01630d17cd11157919feaa547/713b7/charles-deluvio-695733-unsplash.webp 680w,
-/static/13fcadf01630d17cd11157919feaa547/54376/charles-deluvio-695733-unsplash.webp 1360w,
-/static/13fcadf01630d17cd11157919feaa547/521a5/charles-deluvio-695733-unsplash.webp 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/13fcadf01630d17cd11157919feaa547/2e524/charles-deluvio-695733-unsplash.jpg 340w,
-/static/13fcadf01630d17cd11157919feaa547/d330d/charles-deluvio-695733-unsplash.jpg 680w,
-/static/13fcadf01630d17cd11157919feaa547/6c26c/charles-deluvio-695733-unsplash.jpg 1360w,
-/static/13fcadf01630d17cd11157919feaa547/cbe2c/charles-deluvio-695733-unsplash.jpg 2000w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/13fcadf01630d17cd11157919feaa547/6c26c/charles-deluvio-695733-unsplash.jpg&quot;
-          alt=&quot;Cactus&quot;
-          title=&quot;&quot;
-          src=&quot;/static/13fcadf01630d17cd11157919feaa547/6c26c/charles-deluvio-695733-unsplash.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[The fur series]]></title><link>https://praneeth-rdy.github.io/fur/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/fur/</guid><pubDate>Wed, 01 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Praneeth Reddy]]></title><description><![CDATA[A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery]]></description><link>https://praneeth-rdy.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 02 May 2021 08:17:12 GMT</lastBuildDate><item><title><![CDATA[The fur series]]></title><link>https://praneeth-rdy.github.io/fur/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/fur/</guid><pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/a1ebbea943f183782485fb7212e283bb/cbe2c/charles-deluvio-540415-unsplash.jpg&quot;
@@ -629,4 +189,311 @@
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item></channel></rss>
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Darkness]]></title><description><![CDATA[A wallpaper series using shapes and light by Jean-Marc Denis I used a poly reduction on the mesh as a proxy to be able to create my studio…]]></description><link>https://praneeth-rdy.github.io/darkness/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/darkness/</guid><pubDate>Fri, 20 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;A wallpaper series using shapes and light by &lt;a href=&quot;http://jmd.im/black&quot;&gt;Jean-Marc Denis&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.&lt;/p&gt;
+&lt;p&gt;This is the final render.&lt;/p&gt;
+&lt;!-- &lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
+
+![Darkness](./BLACK_II_desktop-1.jpg)
+
+&lt;/div&gt;
+
+&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
+
+![Darkness](./BLACK_IX_desktop-1.jpg)
+
+&lt;/div&gt;
+
+&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
+
+![Darkness](./BLACK_I_desktop-1.jpg)
+
+&lt;/div&gt; --&gt;</content:encoded></item><item><title><![CDATA[All spikes]]></title><link>https://praneeth-rdy.github.io/all-spikes/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/all-spikes/</guid><pubDate>Thu, 19 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/cbe2c/charles-deluvio-695757-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 71.47058823529412%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAdeqag1dAp//xAAZEAACAwEAAAAAAAAAAAAAAAABAgADERD/2gAIAQEAAQUCitrQjRRQauf/xAAWEQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8BUH//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAEAAgMBAAAAAAAAAAAAAAABABACESFR/9oACAEBAAY/Apl4Ukdp2v/EABkQAQEAAwEAAAAAAAAAAAAAAAERABBRYf/aAAgBAQABPyHIajAJr2wmMtDxr//aAAwDAQACAAMAAAAQOx//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QAp2f/8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQIBAT8Qp//EABsQAQEAAwADAAAAAAAAAAAAAAERABAhQWGh/9oACAEBAAE/EFAVQDy457igLZV+mgQkbr2YTZAJeBr/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/51a8e/charles-deluvio-695757-unsplash.webp 340w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/713b7/charles-deluvio-695757-unsplash.webp 680w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/54376/charles-deluvio-695757-unsplash.webp 1360w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/521a5/charles-deluvio-695757-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/2e524/charles-deluvio-695757-unsplash.jpg 340w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/d330d/charles-deluvio-695757-unsplash.jpg 680w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/6c26c/charles-deluvio-695757-unsplash.jpg 1360w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/cbe2c/charles-deluvio-695757-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/6c26c/charles-deluvio-695757-unsplash.jpg&quot;
+          alt=&quot;Cactus&quot;
+          title=&quot;&quot;
+          src=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/6c26c/charles-deluvio-695757-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/cbe2c/charles-deluvio-695736-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwD/2gAMAwEAAhADEAAAAdsRjjXeljmsGwJ//8QAHBAAAgICAwAAAAAAAAAAAAAAAQIDEAASBCEz/9oACAEBAAEFAidVU7DJfPjk0ewsapX/xAAWEQADAAAAAAAAAAAAAAAAAAABESD/2gAIAQMBAT8BRj//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAaEAACAgMAAAAAAAAAAAAAAAAAEAEREiFB/9oACAEBAAY/ArLhSY8el//EABoQAQADAQEBAAAAAAAAAAAAAAEAETEQIaH/2gAIAQEAAT8hJFgXBHJ4kcrJbDn3gEHGIWfvP//aAAwDAQACAAMAAAAQUBe9/8QAGBEBAAMBAAAAAAAAAAAAAAAAARARITH/2gAIAQMBAT8QG05AtVH/xAAYEQACAwAAAAAAAAAAAAAAAAABESAhQf/aAAgBAgEBPxBgVsP/xAAaEAEBAQADAQAAAAAAAAAAAAABEQAQMUEh/9oACAEBAAE/ECGWpMvlGnBKp7Cee4UZBS96b6phEzBApGpyu//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/51a8e/charles-deluvio-695736-unsplash.webp 340w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/713b7/charles-deluvio-695736-unsplash.webp 680w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/54376/charles-deluvio-695736-unsplash.webp 1360w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/521a5/charles-deluvio-695736-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/2e524/charles-deluvio-695736-unsplash.jpg 340w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/d330d/charles-deluvio-695736-unsplash.jpg 680w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/6c26c/charles-deluvio-695736-unsplash.jpg 1360w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/cbe2c/charles-deluvio-695736-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/6c26c/charles-deluvio-695736-unsplash.jpg&quot;
+          alt=&quot;Cactus&quot;
+          title=&quot;&quot;
+          src=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/6c26c/charles-deluvio-695736-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/216e61171daaf84611afdcd561d726fa/cbe2c/charles-deluvio-695758-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 140%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAUCBAH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAP/2gAMAwEAAhADEAAAAa/iWXVFcvBYyNNh5//EABsQAAEFAQEAAAAAAAAAAAAAAAEAAgMEEBIj/9oACAEBAAEFAtJAULurKsDzhHUuBrRn/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARAv/aAAgBAwEBPwFDcEX/xAAXEQADAQAAAAAAAAAAAAAAAAABEBEC/9oACAECAQE/AUc01f/EABoQAAIDAQEAAAAAAAAAAAAAAAEQABEhAlH/2gAIAQEABj8Cemp2bV+QPAF//8QAHBAAAgMBAAMAAAAAAAAAAAAAAREAECExUWFx/9oACAEBAAE/IYw09oCwB7g0lat7TPMTiCeDaIBCIYnFXwV//9oADAMBAAIAAwAAABBD30H/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QJisp/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8QIo//xAAfEAEAAQQBBQAAAAAAAAAAAAABEQAQIUExUWGBofD/2gAIAQEAAT8QoRAQJSc274QUU55cJDYCOtjbRB9NHCHJ8fFnQk5Ew0yrLuC3/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/216e61171daaf84611afdcd561d726fa/51a8e/charles-deluvio-695758-unsplash.webp 340w,
+/static/216e61171daaf84611afdcd561d726fa/713b7/charles-deluvio-695758-unsplash.webp 680w,
+/static/216e61171daaf84611afdcd561d726fa/54376/charles-deluvio-695758-unsplash.webp 1360w,
+/static/216e61171daaf84611afdcd561d726fa/521a5/charles-deluvio-695758-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/216e61171daaf84611afdcd561d726fa/2e524/charles-deluvio-695758-unsplash.jpg 340w,
+/static/216e61171daaf84611afdcd561d726fa/d330d/charles-deluvio-695758-unsplash.jpg 680w,
+/static/216e61171daaf84611afdcd561d726fa/6c26c/charles-deluvio-695758-unsplash.jpg 1360w,
+/static/216e61171daaf84611afdcd561d726fa/cbe2c/charles-deluvio-695758-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/216e61171daaf84611afdcd561d726fa/6c26c/charles-deluvio-695758-unsplash.jpg&quot;
+          alt=&quot;Cactus&quot;
+          title=&quot;&quot;
+          src=&quot;/static/216e61171daaf84611afdcd561d726fa/6c26c/charles-deluvio-695758-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/13fcadf01630d17cd11157919feaa547/cbe2c/charles-deluvio-695733-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 140%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAEEAv/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQF/9oADAMBAAIQAxAAAAHeZ+bp0AGc9yi0Tb//xAAZEAACAwEAAAAAAAAAAAAAAAAAAQMRICH/2gAIAQEAAQUCxH1jKz//xAAWEQEBAQAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8BJp//xAAXEQEBAQEAAAAAAAAAAAAAAAABEBEC/9oACAECAQE/AQh3hk//xAAXEAADAQAAAAAAAAAAAAAAAAACIDBx/9oACAEBAAY/AkPYf//EABsQAQACAgMAAAAAAAAAAAAAAAEQEQAgITFB/9oACAEBAAE/IdHD9MAPBU0Hkf/aAAwDAQACAAMAAAAQG+VO/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EFxCOwz/xAAXEQADAQAAAAAAAAAAAAAAAAABEBFR/9oACAECAQE/EKAnFZ2v/8QAGhABAQEBAAMAAAAAAAAAAAAAAREQACExkf/aAAgBAQABPxDqKgnj3tUtjPhgvLMKawlxBIlOGUA5/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/13fcadf01630d17cd11157919feaa547/51a8e/charles-deluvio-695733-unsplash.webp 340w,
+/static/13fcadf01630d17cd11157919feaa547/713b7/charles-deluvio-695733-unsplash.webp 680w,
+/static/13fcadf01630d17cd11157919feaa547/54376/charles-deluvio-695733-unsplash.webp 1360w,
+/static/13fcadf01630d17cd11157919feaa547/521a5/charles-deluvio-695733-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/13fcadf01630d17cd11157919feaa547/2e524/charles-deluvio-695733-unsplash.jpg 340w,
+/static/13fcadf01630d17cd11157919feaa547/d330d/charles-deluvio-695733-unsplash.jpg 680w,
+/static/13fcadf01630d17cd11157919feaa547/6c26c/charles-deluvio-695733-unsplash.jpg 1360w,
+/static/13fcadf01630d17cd11157919feaa547/cbe2c/charles-deluvio-695733-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/13fcadf01630d17cd11157919feaa547/6c26c/charles-deluvio-695733-unsplash.jpg&quot;
+          alt=&quot;Cactus&quot;
+          title=&quot;&quot;
+          src=&quot;/static/13fcadf01630d17cd11157919feaa547/6c26c/charles-deluvio-695733-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Don't stop]]></title><description><![CDATA[Picasso had his pink period and his blue period. I am in my blonde period right now. When I first started wearing pink, it wasn’t nothing I…]]></description><link>https://praneeth-rdy.github.io/dont-stop/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/dont-stop/</guid><pubDate>Wed, 18 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Picasso had his pink period and his blue period. I am in my blonde period right now.&lt;/h3&gt;
+&lt;p&gt;When I first started wearing pink, it wasn’t nothing I planned on doing or strategized. But people showed me so much love for the pink mink I wore, I had to go out to Pantone and create my own color, which is called Killa Pink.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/cbe2c/ian-dooley-298771-unsplash-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIDAQQF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAB9RpMrc0Dis1Sw0ef/8QAGxAAAgEFAAAAAAAAAAAAAAAAAQIQABESICH/2gAIAQEAAQUCnKrww4qnX//EABYRAQEBAAAAAAAAAAAAAAAAAAEQAv/aAAgBAwEBPwFjpn//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAVEAEBAAAAAAAAAAAAAAAAAAAgMf/aAAgBAQAGPwJ0/wD/xAAdEAACAQQDAAAAAAAAAAAAAAABERAAQWFxMVHw/9oACAEBAAE/IZNgTzQ9EP4vrdBFlMARcbE//9oADAMBAAIAAwAAABC/NLH/xAAXEQADAQAAAAAAAAAAAAAAAAABEBEx/9oACAEDAQE/ECmqKL//xAAVEQEBAAAAAAAAAAAAAAAAAAAQQf/aAAgBAgEBPxAp/8QAHhABAAIBBAMAAAAAAAAAAAAAAQARIRAxcbFBUWH/2gAIAQEAAT8QISpQmQcCq4Pk7aHkSXlbBUCLA7QEPfO8CJXx7Ib6f//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/51a8e/ian-dooley-298771-unsplash-1.webp 340w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/713b7/ian-dooley-298771-unsplash-1.webp 680w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/54376/ian-dooley-298771-unsplash-1.webp 1360w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/521a5/ian-dooley-298771-unsplash-1.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/2e524/ian-dooley-298771-unsplash-1.jpg 340w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/d330d/ian-dooley-298771-unsplash-1.jpg 680w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/6c26c/ian-dooley-298771-unsplash-1.jpg 1360w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/cbe2c/ian-dooley-298771-unsplash-1.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/6c26c/ian-dooley-298771-unsplash-1.jpg&quot;
+          alt=&quot;Don&apos;t stop&quot;
+          title=&quot;&quot;
+          src=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/6c26c/ian-dooley-298771-unsplash-1.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/eb49d6b0e91431744d4293eecda221ce/cbe2c/ian-dooley-298780-unsplash-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgX/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAHruTzpUBMK50rQhP8A/8QAGRAAAgMBAAAAAAAAAAAAAAAAAREAAhAg/9oACAEBAAEFAtcoWO//xAAWEQEBAQAAAAAAAAAAAAAAAAAQARH/2gAIAQMBAT8Bwp//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAUEAEAAAAAAAAAAAAAAAAAAAAw/9oACAEBAAY/Ak//xAAaEAACAwEBAAAAAAAAAAAAAAABEQAQQTHh/9oACAEBAAE/IY64hXEe0mVmwUL/AP/aAAwDAQACAAMAAAAQ4ycP/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARIf/aAAgBAwEBPxAxqKr/xAAXEQEAAwAAAAAAAAAAAAAAAAAQARFR/9oACAECAQE/ELI0/8QAHRABAAICAgMAAAAAAAAAAAAAAQAREDEhQVFx8f/aAAgBAQABPxAgLDzht6c7gOoC0vTBXGr8wUBggUFBohj/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/eb49d6b0e91431744d4293eecda221ce/51a8e/ian-dooley-298780-unsplash-1.webp 340w,
+/static/eb49d6b0e91431744d4293eecda221ce/713b7/ian-dooley-298780-unsplash-1.webp 680w,
+/static/eb49d6b0e91431744d4293eecda221ce/54376/ian-dooley-298780-unsplash-1.webp 1360w,
+/static/eb49d6b0e91431744d4293eecda221ce/521a5/ian-dooley-298780-unsplash-1.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/eb49d6b0e91431744d4293eecda221ce/2e524/ian-dooley-298780-unsplash-1.jpg 340w,
+/static/eb49d6b0e91431744d4293eecda221ce/d330d/ian-dooley-298780-unsplash-1.jpg 680w,
+/static/eb49d6b0e91431744d4293eecda221ce/6c26c/ian-dooley-298780-unsplash-1.jpg 1360w,
+/static/eb49d6b0e91431744d4293eecda221ce/cbe2c/ian-dooley-298780-unsplash-1.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/eb49d6b0e91431744d4293eecda221ce/6c26c/ian-dooley-298780-unsplash-1.jpg&quot;
+          alt=&quot;Don&apos;t stop&quot;
+          title=&quot;&quot;
+          src=&quot;/static/eb49d6b0e91431744d4293eecda221ce/6c26c/ian-dooley-298780-unsplash-1.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Android Development]]></title><link>https://praneeth-rdy.github.io/android-dev/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/android-dev/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Android Development]]></title><link>https://praneeth-rdy.github.io/temp/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/temp/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Web Development]]></title><link>https://praneeth-rdy.github.io/web-dev/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/web-dev/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Android Development]]></title><link>https://praneeth-rdy.github.io/temp-2/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/temp-2/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Android Development]]></title><link>https://praneeth-rdy.github.io/third/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/third/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Android Development]]></title><link>https://praneeth-rdy.github.io/android-dev/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/android-dev/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Android Development]]></title><link>https://praneeth-rdy.github.io/temp/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/temp/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Android Development]]></title><link>https://praneeth-rdy.github.io/temp-2/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/temp-2/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Web Development]]></title><link>https://praneeth-rdy.github.io/web-dev/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/web-dev/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Web Development]]></title><link>https://praneeth-rdy.github.io/web-dev/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/web-dev/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Android Development]]></title><link>https://praneeth-rdy.github.io/android-dev/</link><guid isPermaLink="false">https://praneeth-rdy.github.io/android-dev/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
