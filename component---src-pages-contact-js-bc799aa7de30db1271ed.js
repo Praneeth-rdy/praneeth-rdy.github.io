@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{"Cuy+":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),r=a.n(n),c=a("Bl7J"),o=a("vrFN");t.default=function(){return r.a.createElement(c.a,{navHeading:"praneeth-rdy",path:"/contact"},r.a.createElement(o.a,{title:"Blog",keywords:["blog","gatsby","javascript","react"]}),r.a.createElement("h3",null,"Contact Page"))}}}]);
-//# sourceMappingURL=component---src-pages-contact-js-bc799aa7de30db1271ed.js.map
