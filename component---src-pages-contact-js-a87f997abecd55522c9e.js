@@ -1,0 +1,2 @@
+(self.webpackChunkpraneeth_rdy_github_io=self.webpackChunkpraneeth_rdy_github_io||[]).push([[501],{262:function(e,t,a){"use strict";a.r(t);var n=a(7294),r=a(2729),c=a(6179);t.default=function(){return n.createElement(r.Z,{navHeading:"praneeth-rdy",path:"/contact"},n.createElement(c.Z,{title:"Blog",keywords:["blog","gatsby","javascript","react"]}),n.createElement("h3",null,"Contact Page"))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-a87f997abecd55522c9e.js.map
