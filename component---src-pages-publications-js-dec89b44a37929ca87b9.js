@@ -1,2 +1,0 @@
-(self.webpackChunkpraneeth_rdy_github_io=self.webpackChunkpraneeth_rdy_github_io||[]).push([[937],{1145:function(e,t,a){"use strict";a.r(t);var n=a(7294),r=a(7198),i=a(6179);t.default=function(){return n.createElement(r.Z,{navHeading:"praneeth-rdy",path:"/publications"},n.createElement(i.Z,{title:"Blog",keywords:["blog","gatsby","javascript","react"]}),n.createElement("h3",null,"Publications Page"))}}}]);
-//# sourceMappingURL=component---src-pages-publications-js-dec89b44a37929ca87b9.js.map
